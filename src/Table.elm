@@ -84,9 +84,9 @@ yachts to be sorted by length by default, you might say:
     Table.initialSort "Length"
 
 -}
-initialSort : String -> State
-initialSort header =
-    State header False
+initialSort : String -> Bool -> State
+initialSort header bool =
+    State header bool
 
 
 
