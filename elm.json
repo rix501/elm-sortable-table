@@ -1,6 +1,6 @@
 {
     "type": "package",
-    "name": "NoRedInk/elm-sortable-table",
+    "name": "rix501/elm-sortable-table",
     "summary": "Sortable tables for whatever data you want to display.",
     "license": "BSD-3-Clause",
     "version": "1.0.0",
